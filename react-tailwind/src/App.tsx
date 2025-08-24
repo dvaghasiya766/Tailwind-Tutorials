@@ -7,7 +7,7 @@ import { Height } from "./Components/Height";
 
 import "./output.css";
 
-const App: React.FC = () => {
+function App() {
   return (
     <>
       <Header />
@@ -17,6 +17,6 @@ const App: React.FC = () => {
       <Colors />
     </>
   );
-};
+}
 
 export default App;
