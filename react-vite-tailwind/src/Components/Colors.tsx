@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Colors: React.FC<{}> = () => {
+export const Colors: React.FC = () => {
   return (
     <div>
       <p className="text-blue-50">Hello I'm learning Tailwind CSS...</p>
