@@ -31,9 +31,6 @@ export const Width: React.FC = () => {
 
       {/* Auto set */}
       <div className="bg-stone-200 hover:bg-stone-400 w-auto">Width Module for div</div>
-
-      {/* <div className="bg-pink-300 w-300 max-w-xl">Width Module for div</div> */}
-      {/* <span className="bg-pink-300">Width Module for span</span> */}
     </div>
   );
 };
