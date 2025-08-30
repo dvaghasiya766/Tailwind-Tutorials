@@ -20,14 +20,14 @@ export const Height: React.FC = () => {
       </div>
 
       {/* Custom Pixel */}
-      <div className="bg-stone-500 h-[100px]">Width Module for div</div>
+      <div className="bg-stone-500 h-[100px]">Height Module for div</div>
 
       {/* Auto set */}
       <div className="bg-stone-200 hover:bg-stone-400 h-auto">
-        Width Module for div
+        Height Module for div
       </div>
       <div className="text-xl bg-stone-300 hover:bg-stone-500 h-dvh">
-        Width Module for div
+        Height Module for div
       </div>
     </div>
   );
